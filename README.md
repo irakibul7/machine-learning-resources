@@ -10,3 +10,4 @@
    * [R for Data Science](https://r4ds.had.co.nz/index.html)
    * [Rules of Machine Learning:Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
    * [Deep Learning](http://www.deeplearningbook.org/)
+   * [storytelling with data](http://www.bdbanalytics.ir/media/1123/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
