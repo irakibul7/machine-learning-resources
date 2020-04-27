@@ -34,7 +34,7 @@ https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf
 John M. Zelle\
 http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-Programming-An-Introduction-to-Computer-Science-2nd-edition-John-Zelle-2010.pdf
 
-**Python Crash Course**\  
+**Python Crash Course**
 ERIC MATTHES\
 http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf
 
@@ -175,7 +175,7 @@ Robert J Vanderbei\
 http://link.springer.com/openurl?genre=book&isbn=978-1-4614-7630-6
 
 **Understanding Statistics Using R**\
-Randall Schumacker, Sara Tomek\**
+Randall Schumacker, Sara Tomek\
 http://link.springer.com/openurl?genre=book&isbn=978-1-4614-6227-9
 
 **An Introduction to Statistical Learning**\
@@ -199,7 +199,7 @@ Frank E. Harrell , Jr.\
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-19425-7
 
 **A Modern Introduction to Probability and Statistics**\
-F.M. Dekking, C. Kraaikamp, H.P. Lopuhaä, L.E. Meester\**
+F.M. Dekking, C. Kraaikamp, H.P. Lopuhaä, L.E. Meester\
 http://link.springer.com/openurl?genre=book&isbn=978-1-84628-168-6
 
 **The Python Workbook**\
@@ -247,7 +247,7 @@ Kent D. Lee\
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-70790-7
 
 **Introduction to Artificial Intelligence**\
-Wolfgang Ertel\**
+Wolfgang Ertel\
 http://link.springer.com/openurl?genre=book&isbn=978-3-319-58487-4
 
 **Introduction to Deep Learning**\
