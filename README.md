@@ -12,75 +12,75 @@
    * [Deep Learning](http://www.deeplearningbook.org/)
    * [storytelling with data](http://www.bdbanalytics.ir/media/1123/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
    
-   <b>The Elements of Statistical Learning</b>\
+   **The Elements of Statistical Learning**\
    Trevor Hastie, Robert Tibshirani, Jerome Friedman\
    http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
    
-   <b>Introductory Time Series with R</b>\
+   **Introductory Time Series with R**\
    Paul S.P. Cowpertwait, Andrew V. Metcalfe\
    http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5
    
-   <b>A Beginner’s Guide to R</b>\
+   **A Beginner’s Guide to R**\
    Alain Zuur, Elena N. Ieno, Erik Meesters\
    http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0
    
-   <b>Data Analysis</b>\
+   **Data Analysis**\
    Siegmund Brandt\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-03762-2
    
-   <b>Linear and Nonlinear Programming</b>\
+   **Linear and Nonlinear Programming**\
    David G. Luenberger, Yinyu Ye\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3
    
-   <b>Introduction to Partial Differential Equations</b>\
+   **Introduction to Partial Differential Equations**\
    David Borthwick\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0
    
-   <b>Data Structures and Algorithms with Python</b>\
+   **Data Structures and Algorithms with Python**\
    Kent D. Lee, Steve Hubbard\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9
    
-   <b>Introduction to Partial Differential Equations</b>\
+   **Introduction to Partial Differential Equations**\
    Peter J. Olver\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-02099-0
  
-   <b>Methods of Mathematical Modelling</b>\
+   **Methods of Mathematical Modelling**\
    Thomas Witelski, Mark Bowen\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9
 
-   <b>LaTeX in 24 Hours</b>\
+   **LaTeX in 24 Hours**\
    Dilip Datta\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-47831-9
 
-   <b>Introduction to Statistics and Data Analysis</b>\
+   **Introduction to Statistics and Data Analysis**\
    Christian Heumann, Michael Schomaker, Shalabh\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5
 
-   <b>Principles of Data Mining</b>\
+   **Principles of Data Mining**\
    Max Bramer\
    http://link.springer.com/openurl?genre=book&isbn=978-1-4471-7307-6
 
-   <b>Computer Vision</b>\
+   **Computer Vision**\
    Richard Szeliski\
    http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0
 
-   <b>Data Mining</b>\
+   **Data Mining**\
    Charu C. Aggarwal\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-14142-8
 
-   <b>Computational Geometry</b>\
+   **Computational Geometry**\
    Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars\
    http://link.springer.com/openurl?genre=book&isbn=978-3-540-77974-2
 
-   <b>Robotics, Vision and Control</b>\
+   **Robotics, Vision and Control**\
    Peter Corke\
    http://link.springer.com/openurl?genre=book&isbn=978-3-319-54413-7
 
-   <b>Statistical Analysis and Data Display</b>\
+   **Statistical Analysis and Data Display**\
    Richard M. Heiberger, Burt Holland\
    http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2122-5
 
-   <b>Statistics and Data Analysis for Financial Engineering</b>\
+   **Statistics and Data Analysis for Financial Engineering**\
    David Ruppert, David S. Matteson\
    http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2614-5
    
