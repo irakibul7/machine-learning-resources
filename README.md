@@ -11,3 +11,84 @@
    * [Rules of Machine Learning:Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
    * [Deep Learning](http://www.deeplearningbook.org/)
    * [storytelling with data](http://www.bdbanalytics.ir/media/1123/storytelling-with-data-cole-nussbaumer-knaflic.pdf)
+   
+   **The Elements of Statistical Learning**\
+   Trevor Hastie, Robert Tibshirani, Jerome Friedman\
+   http://link.springer.com/openurl?genre=book&isbn=978-0-387-84858-7
+   
+   **Introductory Time Series with R**\
+   Paul S.P. Cowpertwait, Andrew V. Metcalfe\
+   http://link.springer.com/openurl?genre=book&isbn=978-0-387-88698-5
+   
+   **A Beginner’s Guide to R**\
+   Alain Zuur, Elena N. Ieno, Erik Meesters\
+   http://link.springer.com/openurl?genre=book&isbn=978-0-387-93837-0
+   
+   **Data Analysis**\
+   Siegmund Brandt\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-03762-2
+   
+   **Linear and Nonlinear Programming**\
+   David G. Luenberger, Yinyu Ye\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-18842-3
+   
+   **Introduction to Partial Differential Equations**\
+   David Borthwick\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-48936-0
+   
+   **Data Structures and Algorithms with Python**\
+   Kent D. Lee, Steve Hubbard\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-13072-9
+   
+   **Introduction to Partial Differential Equations**\
+   Peter J. Olver\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-02099-0
+   
+   **Methods of Mathematical Modelling**\
+   Thomas Witelski, Mark Bowen\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-23042-9
+
+   **LaTeX in 24 Hours**\
+   Dilip Datta\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-47831-9
+
+   **Introduction to Statistics and Data Analysis**\
+   Christian Heumann, Michael Schomaker, Shalabh\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-46162-5
+
+   **Principles of Data Mining**\
+   Max Bramer\
+   http://link.springer.com/openurl?genre=book&isbn=978-1-4471-7307-6
+
+   **Computer Vision**\
+   Richard Szeliski\
+   http://link.springer.com/openurl?genre=book&isbn=978-1-84882-935-0
+
+   **Data Mining**\
+   Charu C. Aggarwal\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-14142-8
+
+   **Computational Geometry**\
+   Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-540-77974-2
+
+   **Robotics, Vision and Control**\
+   Peter Corke\
+   http://link.springer.com/openurl?genre=book&isbn=978-3-319-54413-7
+
+   **Statistical Analysis and Data Display**\
+   Richard M. Heiberger, Burt Holland\
+   http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2122-5
+
+   **Statistics and Data Analysis for Financial Engineering**\
+   David Ruppert, David S. Matteson\
+   http://link.springer.com/openurl?genre=book&isbn=978-1-4939-2614-5
+   
+   
+   
+   
+   
+   
+   
+   
+   
